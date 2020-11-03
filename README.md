@@ -1,2 +1,0 @@
-# webdeveloping
-sessionone
